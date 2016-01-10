@@ -1,0 +1,26 @@
+body {
+    background-image: url("../imgs/home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    padding: 20px;
+    text-align: center;
+}
+
+#container {
+    margin: 0 auto;
+    opacity: .9;
+}
+
+.ui.card.forecast {
+    float: left !important;
+}
+
+footer {
+    position: absolute !important;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin: 0!important;
+    padding: 0!important;
+}
